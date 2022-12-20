@@ -1,8 +1,6 @@
 	.row {
           width: 480px;
-          margin: 700px auto;
-	  display:flex;
-          justify-content: space-between ;
+          margin: 800px auto;
 	  
         }
         .row ul {
