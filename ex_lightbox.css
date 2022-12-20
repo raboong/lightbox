@@ -1,6 +1,9 @@
 	.row {
           width: 420px;
           margin: 700px auto;
+	  display:flex;
+          justify-content: space-between ;
+	  
         }
         .row ul {
           list-style:none;
